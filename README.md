@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Sohaima Said!
-
 I am an undergraduate student pursuing a **Bachelor of Science in Artificial Intelligence** at **COMSATS University Islamabad**. I focus on building smart software solutions, bridging foundational data structures with intelligent machine learning paradigms.
 
 
